@@ -26,7 +26,7 @@ Facilitar o aprendizado STEM em qualquer lugar, tornando o estudo mais dinâmico
 ---
 
 ## 📌 Status do Projeto
-🚧 Em desenvolvimento 🚧  
+🚧 Interface desenvolvida
 
 ---
 
@@ -35,6 +35,7 @@ Sugestões e contribuições são bem-vindas!
 Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
-
+Feito para TechFest FullSail University 2024 (1° lugar no desafio App Design Prototype)
 ## 📄 Licença
 Este projeto está sob a licença MIT.
+fe
