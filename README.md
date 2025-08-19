@@ -37,8 +37,7 @@ Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 ---
 ## Informações de desenvolvimento
 Feito para TechFest FullSail University 2024 (1° lugar no desafio App Design Prototype)
-- Video explicativo
-  http://drive.google.com/file/d/18lr26PkBnP1FOWyAOkkStYWcxH5k-21t/view?usp=drivesdk
+- Video explicativo (https://drive.google.com/file/d/18Ir26PkBnP1FOWyAOkkStYWcxH5k-21t/view?usp=drive_link)
 ## 📄 Licença
 Este projeto está sob a licença MIT.
 fe
